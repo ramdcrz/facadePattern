@@ -14,3 +14,6 @@ The HotelApp needs to manage various hotel services for guest check-in and check
   <li><b>FrontDesk</b>: The facade class that coordinates interactions between the client (HotelApp) and the individual hotel services.</li>
   <li><b>HotelApp</b>: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.</li>
 </ul>
+
+## UML Diagram
+![alt text](https://github.com/ramdcrz/facadePattern/blob/main/facadePattern_UML.png?raw=true)
